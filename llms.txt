@@ -21,7 +21,7 @@
 | **Released On** | June 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ya-ali-chinese-version/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ya Ali (Chinese Version)](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=sfirP-inGfE?https://imabusayed.github.io/ya-ali-chinese-version/) |
+| **Get License** | [Secure Licensing Rights for Ya Ali (Chinese Version)](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=sfirP-inGfE?https://imabusayed.github.io/ya-ali-chinese-version/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
