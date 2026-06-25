@@ -8,16 +8,16 @@
   "public_repo_url": "https://github.com/ImAbuSayed/ya-ali-chinese-version",
   "gist_url": null,
   "telegram_post_url": "https://t.me/AbuSayedMusic/4286",
-  "youtube_link": null,
-  "spotify_link": null,
-  "apple_music_link": null,
-  "website_link": null,
+  "youtube_link": "https://www.youtube.com/watch?v=sfirP-inGfE",
+  "spotify_link": "",
+  "apple_music_link": "",
+  "website_link": "",
   "feature_image_url": "https://abusayed.com.bd/wp-content/uploads/2026/06/Ya-Ali-Chinese-Version.min_.webp",
   "sha256_hash": "385c214bf1c78b0c7564d1f8ad5a0e78eac93071ff1f46f6a95bb21d126f06cb",
   "sha256_raw_hash": "16329527a5cac9b275e37826625a2791a9660b6bb8579705249f1a9dce2da2ff",
   "lyric_version": 1,
   "proof_timestamp": "2026-06-25T03:35:22.030265",
-  "song_creation_date": null,
-  "official_release_date": null,
-  "generated_at": "2026-06-24T21:36:53Z"
+  "song_creation_date": "September 28, 2025",
+  "official_release_date": "June 25, 2026",
+  "generated_at": "2026-06-25T17:19:13Z"
 }
